@@ -1,4 +1,5 @@
 Programın Amacı
+
 Bu program, okulda kullanılan bilgisayarların ve akıllı tahtaların enerji tasarrufu sağlamak amacıyla belirli saatler arasında otomatik olarak kapanmasını sağlar. Öğrenciler okuldan ayrıldıktan sonra cihazların kapanması için kullanılır.
 
 Kurulum ve Kullanım
